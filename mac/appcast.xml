@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Hog</title>
-    <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases</link>
+    <link>https://github.com/veslekari/HogHog-releases/releases</link>
     <description>Updates for Hog for Mac.</description>
     <item>
       <title>Hog 0.20.1</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.20.1</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.20.1</link>
       <pubDate>Wed, 28 Oct 2026 14:36:12 +0000</pubDate>
       <sparkle:version>53</sparkle:version>
       <sparkle:shortVersionString>0.20.1</sparkle:shortVersionString>
@@ -18,14 +18,14 @@
 <li><strong>Open Quickly and Open Location are ready to type into.</strong> ⌘P and ⌘L opened the panel without putting the cursor in its search field, so you had to click it first. Now you can start typing as soon as it appears.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/9e5191be">9e5191be</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/9e5191be">9e5191be</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.20.1/Hog-0.20.1.dmg" length="38032340" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.20.1/Hog-0.20.1.dmg" length="38032340" type="application/octet-stream"
         sparkle:edSignature="CTfrG80BS8b9qv6vDiQoJV835RYyePIatwKPjCgylzH7xSDX8HoefGsxaWSAiUMzzLqdlg976NtB3pMTMRtACA==" />
     </item>
     <item>
       <title>Hog 0.20.0</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.20.0</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.20.0</link>
       <pubDate>Wed, 28 Oct 2026 09:11:40 +0000</pubDate>
       <sparkle:version>52</sparkle:version>
       <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
@@ -40,14 +40,14 @@
 <li><strong>Conflicts are announced.</strong> While an alert is set, you're told once each time the branch starts to conflict with its base.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/b2944801">b2944801</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/b2944801">b2944801</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.20.0/Hog-0.20.0.dmg" length="37961226" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.20.0/Hog-0.20.0.dmg" length="37961226" type="application/octet-stream"
         sparkle:edSignature="BxbPlzs/jdCrwJvaViiPr+1+Gu3cS+oUfPyVuLg6LwBWU5ftImfopjjLLy/Qu3HbrBv1lFVLxPo/j//rEe37BA==" />
     </item>
     <item>
       <title>Hog 0.19.3</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.19.3</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.19.3</link>
       <pubDate>Wed, 28 Oct 2026 08:59:43 +0000</pubDate>
       <sparkle:version>51</sparkle:version>
       <sparkle:shortVersionString>0.19.3</sparkle:shortVersionString>
@@ -59,14 +59,14 @@
 <li><strong>The comment box lines up with the conversation.</strong> With a mouse connected (or scroll bars set to Always), a pull request's cards sat a few points left of the comment box, and in narrow windows stopped short of its right edge. Both now share the same edges, with or without scroll bars.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/89e3132b">89e3132b</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/89e3132b">89e3132b</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.19.3/Hog-0.19.3.dmg" length="37929487" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.19.3/Hog-0.19.3.dmg" length="37929487" type="application/octet-stream"
         sparkle:edSignature="zqHlRZIvWvHmYzfYT3baW8AqasxLSAHG2P/Qpm7sNKNUAI9Q+MmeA78/v2Q3JfODzTJbH0BFEPTvkIR2bzDaAw==" />
     </item>
     <item>
       <title>Hog 0.19.2</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.19.2</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.19.2</link>
       <pubDate>Mon, 26 Oct 2026 10:58:15 +0000</pubDate>
       <sparkle:version>50</sparkle:version>
       <sparkle:shortVersionString>0.19.2</sparkle:shortVersionString>
@@ -78,14 +78,14 @@
 <li><strong>Conversations line up again.</strong> On a wide reading column, or with the inspector open, a pull request's cards sat off center or ran under the inspector. They now share the pane's center with the comment box.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/97151488">97151488</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/97151488">97151488</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.19.2/Hog-0.19.2.dmg" length="37918812" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.19.2/Hog-0.19.2.dmg" length="37918812" type="application/octet-stream"
         sparkle:edSignature="dPEZCBGXH8xbfdjK+SlaJLCCkeP15p5r+9iWQ2hrI2IVzSpW56zTH+GoFxzTAnp9VrQmdZUgI/CtdbDsKFwAAA==" />
     </item>
     <item>
       <title>Hog 0.19.1</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.19.1</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.19.1</link>
       <pubDate>Thu, 22 Oct 2026 13:15:46 +0000</pubDate>
       <sparkle:version>49</sparkle:version>
       <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
@@ -97,14 +97,14 @@
 <li><strong>Home keeps its updates when you click one.</strong> Selecting a row in Other updates no longer empties the whole fold: an update is read when you move off it, as asks are.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/43a6e852">43a6e852</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/43a6e852">43a6e852</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.19.1/Hog-0.19.1.dmg" length="37918743" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.19.1/Hog-0.19.1.dmg" length="37918743" type="application/octet-stream"
         sparkle:edSignature="AyksNPeX1XIz1jHW0j0Za48l267alQaOoOYBQE2GL1myq8PlvsTWyGJyrqlIklly32f5GxQm27FAzmdOON3hDA==" />
     </item>
     <item>
       <title>Hog 0.19.0</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.19.0</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.19.0</link>
       <pubDate>Thu, 22 Oct 2026 12:16:12 +0000</pubDate>
       <sparkle:version>48</sparkle:version>
       <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
@@ -116,14 +116,14 @@
 <li><strong>Pick the app icon.</strong> Settings ▸ Appearance ▸ App Icon: Automatic (paper in light mode, night in dark), Paper or Night. Your pick shows in the Dock and the app switcher while Hog is open.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/9ad52f20">9ad52f20</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/9ad52f20">9ad52f20</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.19.0/Hog-0.19.0.dmg" length="37919195" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.19.0/Hog-0.19.0.dmg" length="37919195" type="application/octet-stream"
         sparkle:edSignature="haDp8BxsmUYKSkDDuyha+oAHu4tHFIWQAR+ZGvXAX21Cx65rA87DO77ofxKJMwGxCDhMKkVRQCuIt22qqd4GAg==" />
     </item>
     <item>
       <title>Hog 0.18.1</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.18.1</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.18.1</link>
       <pubDate>Thu, 22 Oct 2026 11:50:04 +0000</pubDate>
       <sparkle:version>47</sparkle:version>
       <sparkle:shortVersionString>0.18.1</sparkle:shortVersionString>
@@ -135,14 +135,14 @@
 <li><strong>A dark-mode app icon.</strong> In dark mode the hog sits on a blue-black night plate with a cool rim light, so it no longer glows as a cream tile next to other dark icons. Light mode keeps the paper plate.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/f30383f9">f30383f9</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/f30383f9">f30383f9</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.18.1/Hog-0.18.1.dmg" length="37314569" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.18.1/Hog-0.18.1.dmg" length="37314569" type="application/octet-stream"
         sparkle:edSignature="l8vQuO5pSnHlKPxKfOvjD9XW219A3g7JDec2LbWGx4j98M6mp7d7QxQ67bnqFcK8hT5f0hduFr7UBEbAtKFWAg==" />
     </item>
     <item>
       <title>Hog 0.18.0</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.18.0</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.18.0</link>
       <pubDate>Thu, 22 Oct 2026 11:30:22 +0000</pubDate>
       <sparkle:version>46</sparkle:version>
       <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
@@ -158,14 +158,14 @@
 <li><strong>No more Inbox tab.</strong> The sidebar is Home and your repositories. Old Inbox links open Home, and everything else that's unread sits folded under Other updates.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/4d92c716">4d92c716</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/4d92c716">4d92c716</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.18.0/Hog-0.18.0.dmg" length="35599288" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.18.0/Hog-0.18.0.dmg" length="35599288" type="application/octet-stream"
         sparkle:edSignature="dJSc4dbk7FdzFlUDef7NsGtg/DlM9HkR5CVpZ6bT29yzXEJKaE7MyzaPs6TIzZzviNTxNLI22K/iiyczAqA7Bw==" />
     </item>
     <item>
       <title>Hog 0.17.2</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.17.2</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.17.2</link>
       <pubDate>Thu, 22 Oct 2026 11:12:52 +0000</pubDate>
       <sparkle:version>45</sparkle:version>
       <sparkle:shortVersionString>0.17.2</sparkle:shortVersionString>
@@ -177,14 +177,14 @@
 <li><strong>A new app icon.</strong> The hog is now a hand-coloured plate from a 19th-century natural history: a wild boar's head on aged paper, in place of the black-and-ivory engraving on cobalt.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/da879cd9">da879cd9</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/da879cd9">da879cd9</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.17.2/Hog-0.17.2.dmg" length="35437601" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.17.2/Hog-0.17.2.dmg" length="35437601" type="application/octet-stream"
         sparkle:edSignature="PUxCdDq8AJXKneDfBzSC17soc3gCPyCSTS0ywQqSSEPV+XBw9xIG49QvrvhZg0UXeX5uHevYaZloSJShvqFfCw==" />
     </item>
     <item>
       <title>Hog 0.17.1</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.17.1</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.17.1</link>
       <pubDate>Wed, 21 Oct 2026 14:12:49 +0000</pubDate>
       <sparkle:version>44</sparkle:version>
       <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
@@ -196,14 +196,14 @@
 <li><strong>An Inbox row opens where its notification came from.</strong> The conversation, scrolled to the comment the thread is about and ringed for a moment, or the top of the item for a review request or assignment. CI rows open Checks. The tab the last item was left on no longer carries over.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/0d5685a9">0d5685a9</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/0d5685a9">0d5685a9</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.17.1/Hog-0.17.1.dmg" length="34319650" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.17.1/Hog-0.17.1.dmg" length="34319650" type="application/octet-stream"
         sparkle:edSignature="NZbe+gCK5AbQXZrePPz2OSYUnih/B2rHZ0mai2b70ZbAWrua1PldlI4qiF1Td0/9vJrMcyGF/xP+c/htLMzbCA==" />
     </item>
     <item>
       <title>Hog 0.17.0</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.17.0</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.17.0</link>
       <pubDate>Wed, 21 Oct 2026 14:04:55 +0000</pubDate>
       <sparkle:version>43</sparkle:version>
       <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
@@ -218,14 +218,14 @@
 <li><strong>Inbox reads faster</strong>: a selected row is marked read after 300 ms instead of 1.5 s. Rows you arrow past stay unread, and the unread dot fades out.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/164b54f9">164b54f9</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/164b54f9">164b54f9</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.17.0/Hog-0.17.0.dmg" length="34304830" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.17.0/Hog-0.17.0.dmg" length="34304830" type="application/octet-stream"
         sparkle:edSignature="BF9q5Wl5bd2hqrbPr9gDDmCLFsauDmfRDWGKDFf8apQ2BXqpdA6KAwIYNs/kMBmZPpCw3OAtOHeSMM9KX7/YDQ==" />
     </item>
     <item>
       <title>Hog 0.16.4</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.16.4</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.16.4</link>
       <pubDate>Wed, 21 Oct 2026 14:04:14 +0000</pubDate>
       <sparkle:version>42</sparkle:version>
       <sparkle:shortVersionString>0.16.4</sparkle:shortVersionString>
@@ -238,14 +238,14 @@
 <li><strong>Colored page menu</strong>: with the sidebar hidden, the folded page menu shows each page in its own color, as the tabs do.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/58805a16">58805a16</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/58805a16">58805a16</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.16.4/Hog-0.16.4.dmg" length="34174204" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.16.4/Hog-0.16.4.dmg" length="34174204" type="application/octet-stream"
         sparkle:edSignature="YiE/iy5/i1FDMwSLIFdtBl15LqC5yEfJw5IMvgnLfwoJRHF9kUtKuTTjaSvMizaHEX1sq6yrxXMA6rykp9ckCw==" />
     </item>
     <item>
       <title>Hog 0.16.3</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.16.3</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.16.3</link>
       <pubDate>Wed, 21 Oct 2026 14:01:25 +0000</pubDate>
       <sparkle:version>41</sparkle:version>
       <sparkle:shortVersionString>0.16.3</sparkle:shortVersionString>
@@ -257,14 +257,14 @@
 <li><strong>The Inbox reads faster.</strong> A selected row is marked read after 300 ms instead of a second and a half: a click reads at once, rows you arrow past stay unread, and the dot fades out.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/0c7657de">0c7657de</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/0c7657de">0c7657de</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.16.3/Hog-0.16.3.dmg" length="34173363" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.16.3/Hog-0.16.3.dmg" length="34173363" type="application/octet-stream"
         sparkle:edSignature="IGdRkfzTMAQh0IuEjpIZBq6xK1cdH5TleezrHC0X5rmdLt099l3+fc67PjxnR4atW4epOORUVZmqy+Q3bBX2Cw==" />
     </item>
     <item>
       <title>Hog 0.16.2</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.16.2</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.16.2</link>
       <pubDate>Wed, 21 Oct 2026 13:51:40 +0000</pubDate>
       <sparkle:version>40</sparkle:version>
       <sparkle:shortVersionString>0.16.2</sparkle:shortVersionString>
@@ -276,14 +276,14 @@
 <li><strong>No clipped search prompt</strong>: with the sidebar hidden and an item open, the narrowed search field shows just its magnifier instead of a cut-off "Search…". VoiceOver still reads the prompt.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/7c37d1bf">7c37d1bf</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/7c37d1bf">7c37d1bf</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.16.2/Hog-0.16.2.dmg" length="34169938" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.16.2/Hog-0.16.2.dmg" length="34169938" type="application/octet-stream"
         sparkle:edSignature="8yILOWxG0Hl0cx0bLyyHIJ6EyFc5j17cFYf+/tStT3jzKkQ0AEsyN8Ytw7Gkg/ibm0QJXR8RuTs7MU+9s/rTAQ==" />
     </item>
     <item>
       <title>Hog 0.16.1</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.16.1</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.16.1</link>
       <pubDate>Wed, 21 Oct 2026 13:45:00 +0000</pubDate>
       <sparkle:version>39</sparkle:version>
       <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
@@ -299,14 +299,14 @@
 <li><strong>Opening a pull request no longer blinks</strong> (0.13.10): long descriptions are parsed before the page paints, and a spinner waits 300 ms before it shows.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/18e37421">18e37421</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/18e37421">18e37421</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.16.1/Hog-0.16.1.dmg" length="34170079" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.16.1/Hog-0.16.1.dmg" length="34170079" type="application/octet-stream"
         sparkle:edSignature="AJQfWfxarilC/YXenWyVQBd4vnAgO3RoGmCU6qQ+7y8EQKVqSq36sDABClh8RCmXaU7DUnmntZ0RbyJSEfWjBQ==" />
     </item>
     <item>
       <title>Hog 0.15.1</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.15.1</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.15.1</link>
       <pubDate>Wed, 21 Oct 2026 13:25:44 +0000</pubDate>
       <sparkle:version>35</sparkle:version>
       <sparkle:shortVersionString>0.15.1</sparkle:shortVersionString>
@@ -318,14 +318,14 @@
 <li><strong>Plain links are clickable</strong>: URLs written without Markdown link syntax, like the <code class="notranslate">https://…</code> in a deploy bot's "Deployed … to https://…" comment, now open when clicked, the way they do on GitHub. Trailing punctuation stays out of the link.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/0f79027f">0f79027f</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/0f79027f">0f79027f</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.15.1/Hog-0.15.1.dmg" length="33758934" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.15.1/Hog-0.15.1.dmg" length="33758934" type="application/octet-stream"
         sparkle:edSignature="mCgD+hdeM6IpUij5w/fsa4xjpHhk1mivyw3YoYgcqYN+ylZ8DmpTrWOwoyO7b/gunkWT/AM2qxYOSWtUEHkbBA==" />
     </item>
     <item>
       <title>Hog 0.15.0</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.15.0</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.15.0</link>
       <pubDate>Wed, 21 Oct 2026 13:08:29 +0000</pubDate>
       <sparkle:version>34</sparkle:version>
       <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
@@ -338,14 +338,14 @@
 <li><strong>Groups in the sidebar</strong>: sort your repositories into named sections (File ▸ New Group…, or a repository's menu ▸ Move to Group). Each group folds from its header, and the header's menu renames, reorders or deletes it. Deleting a group keeps its repositories.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/114dcffa">114dcffa</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/114dcffa">114dcffa</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.15.0/Hog-0.15.0.dmg" length="33709317" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.15.0/Hog-0.15.0.dmg" length="33709317" type="application/octet-stream"
         sparkle:edSignature="z7apUOR6FqTRwgYYEiVVwrmmNZpkNLxGAv6GnsbbXLtro8OolHa6FtMSwZadvRw3berp7jdOxC8I0880ydDDBA==" />
     </item>
     <item>
       <title>Hog 0.13.9</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.9</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.13.9</link>
       <pubDate>Wed, 21 Oct 2026 12:04:33 +0000</pubDate>
       <sparkle:version>31</sparkle:version>
       <sparkle:shortVersionString>0.13.9</sparkle:shortVersionString>
@@ -357,14 +357,14 @@
 <li><strong>Pick a GitHub CLI account</strong>: with more than one account signed in to <code class="notranslate">gh</code>, Settings ▸ Account lets you choose which one Hog uses. Hog reads that account's token without changing <code class="notranslate">gh</code>'s active account, and remembers the pick once sign-in works. If <code class="notranslate">gh</code> later signs out of the picked account, Hog falls back to the active one.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/4073b0ed">4073b0ed</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/4073b0ed">4073b0ed</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.9/Hog-0.13.9.dmg" length="33397756" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.13.9/Hog-0.13.9.dmg" length="33397756" type="application/octet-stream"
         sparkle:edSignature="wW85jds8kdVK6SwFcvwyjjhEvsSiVL1U+vzuD8nlMwsaqWEJVKhNkkhfmnNg51FIs2glDl924sbXR3NQpBDTCg==" />
     </item>
     <item>
       <title>Hog 0.13.8</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.8</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.13.8</link>
       <pubDate>Wed, 21 Oct 2026 08:08:39 +0000</pubDate>
       <sparkle:version>30</sparkle:version>
       <sparkle:shortVersionString>0.13.8</sparkle:shortVersionString>
@@ -378,14 +378,14 @@
 <li>Long descriptions no longer show a thin line across the card above code blocks.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/0f62f352">0f62f352</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/0f62f352">0f62f352</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.8/Hog-0.13.8.dmg" length="33412581" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.13.8/Hog-0.13.8.dmg" length="33412581" type="application/octet-stream"
         sparkle:edSignature="sKBpXZDTo9qSgsTcRLXPIDJV8nT4wUxTIy+NqKVw5VBoTGEHThwEDfws2m/tGWCJjqzxelTjGe50BWHxXCHCAw==" />
     </item>
     <item>
       <title>Hog 0.13.7</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.7</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.13.7</link>
       <pubDate>Tue, 20 Oct 2026 14:07:35 +0000</pubDate>
       <sparkle:version>29</sparkle:version>
       <sparkle:shortVersionString>0.13.7</sparkle:shortVersionString>
@@ -399,14 +399,14 @@
 <li>Write Comment is now ⇧⌘L.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/d3cfde02">d3cfde02</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/d3cfde02">d3cfde02</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.7/Hog-0.13.7.dmg" length="33363875" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.13.7/Hog-0.13.7.dmg" length="33363875" type="application/octet-stream"
         sparkle:edSignature="JuFnwkRYljnrKSZaU7AUqKCmG/XU76lJIfr4ZK87e6E6cxUjuKBvnz1UBB/E+zkUbRFTaArtch7h9Sf8dlKNBQ==" />
     </item>
     <item>
       <title>Hog 0.13.6</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.6</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.13.6</link>
       <pubDate>Tue, 20 Oct 2026 14:02:39 +0000</pubDate>
       <sparkle:version>28</sparkle:version>
       <sparkle:shortVersionString>0.13.6</sparkle:shortVersionString>
@@ -418,14 +418,14 @@
 <li>Fixed a crash when scrolling quickly through a pull request's comments while the conversation updated.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/3353ef86">3353ef86</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/3353ef86">3353ef86</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.6/Hog-0.13.6.dmg" length="33337712" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.13.6/Hog-0.13.6.dmg" length="33337712" type="application/octet-stream"
         sparkle:edSignature="Sc/R2z3lYgNcf3X7zPC5FxQOHO5hKkdrg0x23e63E37NKvMW30GuTwc2lM2xiLR9CrAoRTC5/6nYFlqKBGSZBA==" />
     </item>
     <item>
       <title>Hog 0.13.5</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.5</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.13.5</link>
       <pubDate>Tue, 20 Oct 2026 13:34:32 +0000</pubDate>
       <sparkle:version>27</sparkle:version>
       <sparkle:shortVersionString>0.13.5</sparkle:shortVersionString>
@@ -439,14 +439,14 @@
 <li>The description card now closes properly when its first reaction is added or its last is removed.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/f8063382">f8063382</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/f8063382">f8063382</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.5/Hog-0.13.5.dmg" length="33337022" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.13.5/Hog-0.13.5.dmg" length="33337022" type="application/octet-stream"
         sparkle:edSignature="CmC1RZ57maCpIxh5wPXXmwpjvXSzM9mPYuPjhLKbf7UspACdweOyRrH5xZQt9xdbjYZf1KVGuCj+/Hkl41s+DQ==" />
     </item>
     <item>
       <title>Hog 0.13.4</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.4</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.13.4</link>
       <pubDate>Tue, 20 Oct 2026 12:50:52 +0000</pubDate>
       <sparkle:version>26</sparkle:version>
       <sparkle:shortVersionString>0.13.4</sparkle:shortVersionString>
@@ -460,14 +460,14 @@
 <li>Discussions use the same smiley, next to upvotes.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/6be612b8">6be612b8</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/6be612b8">6be612b8</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.4/Hog-0.13.4.dmg" length="33391007" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.13.4/Hog-0.13.4.dmg" length="33391007" type="application/octet-stream"
         sparkle:edSignature="Ci9eKXW9pgVyW2P9LzQ5SBmhKiOMaCsLAuDz1wBdW269WmaRIvjB0dSwKg/7oW8gHoVQLYUL1UHIC4+gZtkBBQ==" />
     </item>
     <item>
       <title>Hog 0.13.3</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.3</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.13.3</link>
       <pubDate>Tue, 20 Oct 2026 12:31:35 +0000</pubDate>
       <sparkle:version>25</sparkle:version>
       <sparkle:shortVersionString>0.13.3</sparkle:shortVersionString>
@@ -481,14 +481,14 @@
 <li>The tab icons beside the scrolled title are heavier and full strength, so they read on the glass.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/6dfeebe3de672e73d4b8e10311aeaf9af7df41af">6dfeebe3</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/6dfeebe3de672e73d4b8e10311aeaf9af7df41af">6dfeebe3</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.3/Hog-0.13.3.dmg" length="33382336" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.13.3/Hog-0.13.3.dmg" length="33382336" type="application/octet-stream"
         sparkle:edSignature="89ImN0yfJ+PH/HmnqRPLJFst+DKB1hdnaqjRa0V7Spz3a3qruiT3aAdxOAZ8ItJNX1EnZMbR74+0rt+ftUaPAg==" />
     </item>
     <item>
       <title>Hog 0.13.2</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.2</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.13.2</link>
       <pubDate>Tue, 20 Oct 2026 11:45:47 +0000</pubDate>
       <sparkle:version>24</sparkle:version>
       <sparkle:shortVersionString>0.13.2</sparkle:shortVersionString>
@@ -501,14 +501,14 @@
 <li>The bright cobalt background is shared by light and dark appearances.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/9868bd55704abe662920d2cc514b73cd2d78af17">9868bd55</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/9868bd55704abe662920d2cc514b73cd2d78af17">9868bd55</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.2/Hog-0.13.2.dmg" length="33300514" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.13.2/Hog-0.13.2.dmg" length="33300514" type="application/octet-stream"
         sparkle:edSignature="pRNcO9nENtbRHHC0rSDraiA5e/+yoP7nZ8BgyVm0A497EhtCI0G3LgP1QM2LHu/4pTyIXJCdhhQ0yd0BBZe5Bw==" />
     </item>
     <item>
       <title>Hog 0.13.1</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.1</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.13.1</link>
       <pubDate>Tue, 20 Oct 2026 11:34:29 +0000</pubDate>
       <sparkle:version>23</sparkle:version>
       <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
@@ -522,14 +522,14 @@
 <li>Repository overview cards align evenly in wide layouts.</li>
 </ul>
 <p dir="auto">Install: open the DMG and drag Hog to Applications. Installed copies can update through Hog → Check for Updates….</p>
-<p dir="auto">Source: <a href="https://github.com/Sonix-AI-Norway/HogHog/commit/a6eb8338b2cbea156bffe884ae0d6a22aad239a5">a6eb8338</a>.</p>
+<p dir="auto">Source: <a href="https://github.com/veslekari/HogHog/commit/a6eb8338b2cbea156bffe884ae0d6a22aad239a5">a6eb8338</a>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.1/Hog-0.13.1.dmg" length="33353815" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.13.1/Hog-0.13.1.dmg" length="33353815" type="application/octet-stream"
         sparkle:edSignature="Ip5UWD+/4pLI+qvGvoVcf1/eQ8b5JXIqPIAzVxn+gJhfu53lujJeDQE27pNxBA4vZR5+yiZ0sCP4msZNN1vFAA==" />
     </item>
     <item>
       <title>Hog 0.13.0</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.13.0</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.13.0</link>
       <pubDate>Tue, 20 Oct 2026 10:44:30 +0000</pubDate>
       <sparkle:version>22</sparkle:version>
       <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
@@ -546,12 +546,12 @@
 </ul>
 <p dir="auto">Install: open the DMG, drag Hog to Applications. Sign-in reuses <code class="notranslate">gh auth login</code>. Installed copies update themselves.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.13.0/Hog-0.13.0.dmg" length="31147659" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.13.0/Hog-0.13.0.dmg" length="31147659" type="application/octet-stream"
         sparkle:edSignature="Xi4sXwOWPVZpQkv+XON3nmenEFYuTKp/G0mkD+E/wI6+z9H43w/cZKdUg/sYzbChfl10Mhf/5XAOGhhxjqlNBw==" />
     </item>
     <item>
       <title>Hog 0.12.1</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.12.1</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.12.1</link>
       <pubDate>Mon, 19 Oct 2026 13:47:34 +0000</pubDate>
       <sparkle:version>20</sparkle:version>
       <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
@@ -564,12 +564,12 @@
 </ul>
 <p dir="auto">Install: open the DMG, drag Hog to Applications. Sign-in reuses <code class="notranslate">gh auth login</code>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.12.1/Hog-0.12.1.dmg" length="30885615" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.12.1/Hog-0.12.1.dmg" length="30885615" type="application/octet-stream"
         sparkle:edSignature="yBLpAs+HBUjYFXrUIyl8SvJkL5DcQekvVDnuKIFiZ1AlfYC9ls18N02RmbBwQV0ep9uf6C6Xcdg7tapsW974CQ==" />
     </item>
     <item>
       <title>Hog 0.12.0</title>
-      <link>https://github.com/Sonix-AI-Norway/HogHog-releases/releases/tag/mac-v0.12.0</link>
+      <link>https://github.com/veslekari/HogHog-releases/releases/tag/mac-v0.12.0</link>
       <pubDate>Mon, 19 Oct 2026 12:52:56 +0000</pubDate>
       <sparkle:version>19</sparkle:version>
       <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
@@ -588,7 +588,7 @@
 </ul>
 <p dir="auto">Install: open the DMG, drag Hog to Applications. Sign-in reuses <code class="notranslate">gh auth login</code>.</p>
       ]]></description>
-      <enclosure url="https://github.com/Sonix-AI-Norway/HogHog-releases/releases/download/mac-v0.12.0/Hog-0.12.0.dmg" length="30842737" type="application/octet-stream"
+      <enclosure url="https://github.com/veslekari/HogHog-releases/releases/download/mac-v0.12.0/Hog-0.12.0.dmg" length="30842737" type="application/octet-stream"
         sparkle:edSignature="KwLtDdbg0Zaim1unijskT3t7BD3csuM+IBg12eqV4x4/Jd8kwYGPvuAnkZzhVFamW/JmvcfWrV+aJfk7J684Dw==" />
     </item>
   </channel>
